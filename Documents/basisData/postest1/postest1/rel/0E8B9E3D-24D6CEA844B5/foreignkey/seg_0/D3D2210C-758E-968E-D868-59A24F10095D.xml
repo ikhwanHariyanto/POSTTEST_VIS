@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="D3D2210C-758E-968E-D868-59A24F10095D" containerWithKeyObject="4C26FF83-48C8-9F27-3D3B-B754491F5D7E" localFKIndex="36D4CCE7-573D-41ED-6508-DFFFE76B96BC" name="Detail_Transaksi_Transaksi_FK">
+<createdBy>Lenovo-GK</createdBy>
+<createdTime>2025-09-15 06:44:49 UTC</createdTime>
+<generatorID>760F01BD-2938-B771-58DB-4663AB3E5057</generatorID>
+<ownerDesignName>postest1</ownerDesignName>
+<referredTableLongName>Transaksi</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>6867BC6E-3174-1289-A5B5-F5B5B36D285F</referredTableID>
+<keyObject>C412A7F7-452B-4B2C-909C-7C2818ED48DD</keyObject>
+<referredKeyID>C412A7F7-452B-4B2C-909C-7C2818ED48DD</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>ID_Transaksi</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>
