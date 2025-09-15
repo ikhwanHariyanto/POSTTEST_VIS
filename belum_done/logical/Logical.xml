@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="C6A319AF-07C8-8370-598D-D58005C37937" mainViewID="6EC1E31A-EA17-C7AE-A074-B91DCB333928">
+<createdBy>Lenovo-GK</createdBy>
+<createdTime>2025-09-15 03:42:00 UTC</createdTime>
+<ownerDesignName>belum_done</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>
