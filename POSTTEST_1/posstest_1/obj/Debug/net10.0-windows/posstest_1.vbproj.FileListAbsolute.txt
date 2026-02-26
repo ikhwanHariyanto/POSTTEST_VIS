@@ -1,0 +1,16 @@
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\bin\Debug\net10.0-windows\posstest_1.exe
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\bin\Debug\net10.0-windows\posstest_1.deps.json
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\bin\Debug\net10.0-windows\posstest_1.runtimeconfig.json
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\bin\Debug\net10.0-windows\posstest_1.dll
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\bin\Debug\net10.0-windows\posstest_1.pdb
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\posstest_1.Form1.resources
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\posstest_1.vbproj.GenerateResource.cache
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\posstest_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\posstest_1.AssemblyInfoInputs.cache
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\posstest_1.AssemblyInfo.vb
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\posstest_1.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\posstest_1.dll
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\refint\posstest_1.dll
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\posstest_1.pdb
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\posstest_1.genruntimeconfig.cache
+C:\Users\Lenovo-GK\source\repos\posstest_1\posstest_1\obj\Debug\net10.0-windows\ref\posstest_1.dll
